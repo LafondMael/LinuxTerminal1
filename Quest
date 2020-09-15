@@ -1,0 +1,7 @@
+maelunix@DESKTOP-L5OHQ54:~$ pwd
+/home/maelunix
+maelunix@DESKTOP-L5OHQ54:~$ ls -a
+.  ..  .bash_history  .bash_logout  .bashrc  .landscape  .motd_shown  .profile
+maelunix@DESKTOP-L5OHQ54:~$ cd .landscape
+maelunix@DESKTOP-L5OHQ54:~/.landscape$ cd ..
+maelunix@DESKTOP-L5OHQ54:~$
